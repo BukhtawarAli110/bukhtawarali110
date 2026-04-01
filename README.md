@@ -46,14 +46,6 @@
 | 🎯 **Seeking** | Data Analyst · Data Engineer roles |
 
 > `oracle` → `sql server` → `python` → `power bi` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
-<div align="center">
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukhtawar-ali-4441291a9)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bukhtawarali@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BukhtawarAli110)
-
-</div>
 
 ---
 
