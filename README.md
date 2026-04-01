@@ -72,7 +72,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 **54 out of 57** on — back when you had to actually know your SQL.
 
 > *The tools on my CV have changed a lot over the years.*  
-> *The hunger to get the data right hasn't.*
+> *The hunger to get the data right hasn't.* <br>
 > *Data is only as powerful as the story it tells — I build both.*
 
 ---
