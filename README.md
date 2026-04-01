@@ -5,7 +5,7 @@
 **London, UK &nbsp;·&nbsp; 25+ years in data &nbsp;·&nbsp; Oracle OCP 54/57**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukhtawar-ali-4441291a9)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=hotmail&logoColor=white)](mailto:bukhtawarali@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:bukhtawarali@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BukhtawarAli110)
 
 
