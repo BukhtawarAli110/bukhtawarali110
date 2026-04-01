@@ -1,14 +1,14 @@
 <div align="center">
 
-# `< Bukhtawar Ali />`
+## `< Bukhtawar Ali />`
 
 ### Data Analyst · Data Engineer · SQL Architect · Python Coder
 
 *London, UK 🇬🇧 — 25+ years turning raw data into decisions*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukhtawar-ali-4441291a9)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bukhtawarali@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bukhtawarali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BukhtawarAli110)
 
 </div>
 
