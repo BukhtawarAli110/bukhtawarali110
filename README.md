@@ -73,7 +73,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 > *The tools on my CV have changed a lot over the years.*  
 > *The hunger to get the data right hasn't.*
-> *"Data is only as powerful as the story it tells — I build both."*
+> *Data is only as powerful as the story it tells — I build both.*
 
 ---
 
