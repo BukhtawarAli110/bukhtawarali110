@@ -1,44 +1,151 @@
-## Hi there 👋
+<div align="center">
 
-# I am Bukhtawar Ali,a UK based data analyst/engineer and coder who has a particular interest in data (obviously) and used to work at Oracle in Pakistan in the 90s
+# `< Bukhtawar Ali />`
 
+### Data Analyst · Data Engineer · SQL Architect · Python Coder
 
-## Certifications
+*London, UK 🇬🇧 — 25+ years turning raw data into decisions*
 
-•	Power BI: Data Analytics & Data Preparation (2026)
-•	Google Certified Educator Level 1 & Level 2 (2026)
-•	NCFE Level 3 Certificate in Data Analytics (2026)
-• Think Employment Bootcamp (2026)
-•	Oracle Certified Professional (OCP) — Developer Track, SQL/PL-SQL — Score: 54/57 (1999)
-•	Web Page Development Certificate — HTML, JavaScript, Web-enabled Systems — Softlogix (2001)
-•	Brainbench: Oracle Programmer (E-Cert), Windows 98 Administrator, Windows 95 Power User (2001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bukhtawarali@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bukhtawarali)
 
-## Career Paths
+</div>
 
-Database & Systems Consultant (Part-Time) | Albion Highland — London, UK	Jan 2002 – Jan 2021
-•	Designed and maintained relational databases and customer information systems using MS Access and Oracle, supporting data integrity and business continuity
-•	Built ETL-style inventory control and stock management workflows; produced management reports and operational dashboards from structured datasets
-•	Developed and maintained web-enabled commercial platforms with integrated data reporting functionality
-•	Provided ongoing database administration, systems support, and network maintenance aligned with client business needs
+---
 
-Store Manager (Data & Reporting Focus) | Lidl UK GmbH — United Kingdom	Jan 2005 – Jan 2016
-•	Utilised centralised retail data systems to monitor sales, stock, pricing, shrinkage, and productivity; identified trends and actioned improvements
-•	Ensured data accuracy across stock, payroll, rota, and compliance systems; used structured reports to support forecasting and planning
-•	Reviewed daily, weekly, and period KPI reports to drive operational decisions and performance outcomes
+## 👋 Who Am I?
 
-Database Developer / Systems Analyst | GAMCA (GCC Approved Medical Centre Association) — Islamabad, PK Jan 2000 – Jan 2001
-•	Designed Oracle-based medical and customer information systems; wrote SQL/PL-SQL to extract, validate, and manage sensitive patient datasets
-•	Produced structured operational and management reports; supported web-enabled reporting via HTML, JavaScript, and ColdFusion
+I'm **Bukhtawar Ali** — a UK-based **Data Analyst & Engineer** with a career that started in the Oracle labs of 1990s Pakistan and has never stopped evolving.
 
-Database Programmer / MIS Officer | Askari Leasing Ltd. — Rawalpindi, Pakistan	     Jan 1999 – Jan 2000
-•	Developed MIS and financial reporting systems using SQL and FoxPro; delivered structured operational reports to senior management
-•	Maintained data accuracy, consistency, and reporting reliability across multiple business units
+I began as a **Database Developer** working directly with Oracle systems, building MIS platforms and patient information systems from the ground up. Fast-forward to today — I'm completing a **Data Analytics Bootcamp (NCFE Level 3)**, enrolled in an **MSc in Computer Science with Data Analytics** at City St George's, University of London, and bringing modern tools like **Python, Power BI, and cloud-ready ETL pipelines** to a foundation built over two and a half decades.
 
-Database Developer | Urgent Medical Diagnostic Centre — Rawalpindi, Pakistan	     Jan 1997 – Jan 1999
-•	Designed and maintained FoxPro-based patient and inventory databases; produced daily clinical and administrative operational reports
+> *"Data is only as powerful as the story it tells — I build both."*
 
-Computer Instructor (Part-Time) | ACCMS (Abacus College) — Pakistan	               Jan 1997 – Jan 2000
-•	Delivered training in programming fundamentals, database systems, and computer applications to diploma students
+---
 
-Career Break | Health recovery & family caring responsibilities	2021 – 2024
-•	Returned to the interest in 2025 with formal upskilling in data analytics; actively pursuing Data Analyst and Data Engineer roles
+## 🛠️ Tech Stack
+
+### Languages & Query
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_(Advanced)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### Data Engineering
+![ETL](https://img.shields.io/badge/ETL_Design-6DB33F?style=flat-square&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-0052CC?style=flat-square&logoColor=white)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-FF6F00?style=flat-square&logoColor=white)
+![Data Modelling](https://img.shields.io/badge/Data_Modelling-8A2BE2?style=flat-square&logoColor=white)
+
+### Governance & Compliance
+![GDPR](https://img.shields.io/badge/GDPR-003087?style=flat-square&logoColor=white)
+![Data Quality](https://img.shields.io/badge/Data_Quality_Assurance-2E8B57?style=flat-square&logoColor=white)
+
+---
+
+## 🏆 Certifications
+
+| Year | Certification |
+|------|--------------|
+| 2026 | 📊 **Power BI: Data Analytics & Data Preparation** — Coursera |
+| 2026 | 🎓 **Google Certified Educator Level 1 & Level 2** |
+| 2026 | 📋 **NCFE Level 3 Certificate in Data Analytics** — Think Employment Bootcamp |
+| 2001 | 🌐 **Web Page Development Certificate** — HTML, JavaScript, Web Systems — Softlogix |
+| 2001 | 💻 **Brainbench** — Oracle Programmer (E-Cert), Windows Administrator |
+| 1999 | 🏅 **Oracle Certified Professional (OCP)** — Developer Track, SQL/PL-SQL — **Score: 54/57** |
+
+---
+
+## 💼 Career Timeline
+
+```
+1997 ──────────────────────────────────────────────────────────── Present
+ │
+ ├─ 🏥  Database Developer        │ Urgent Medical Diagnostic Centre  │ 1997–1999
+ │      FoxPro · patient DBs · clinical reporting
+ │
+ ├─ 🎓  Computer Instructor (PT)  │ ACCMS / Abacus College, PK        │ 1997–2000
+ │      Programming · DB systems · diploma students
+ │
+ ├─ 💰  DB Programmer / MIS Officer│ Askari Leasing Ltd., PK           │ 1999–2000
+ │      SQL · FoxPro · financial MIS · senior mgmt reporting
+ │
+ ├─ 🩺  Database Developer        │ GAMCA, Islamabad PK               │ 2000–2001
+ │      Oracle · PL-SQL · patient data · web-enabled reporting
+ │
+ ├─ 🔧  DB & Systems Consultant   │ Albion Highland, London UK        │ 2002–2021
+ │      Oracle · MS Access · ETL · dashboards · web platforms
+ │
+ ├─ 🛒  Store Manager (Data Focus)│ Lidl UK GmbH                      │ 2005–2016
+ │      Retail analytics · KPIs · forecasting · compliance
+ │
+ ├─ ⏸️  Career Break              │ Health recovery & family caring   │ 2021–2024
+ │
+ └─ 🚀  Returning & Upskilling    │ MSc + Bootcamp + Power BI + Python│ 2025–Now
+        Actively seeking: Data Analyst · Data Engineer roles
+```
+
+---
+
+## 📚 Education
+
+🎓 **MSc Computer Science with Data Analytics** *(in progress)*
+City St George's, University of London — *Feb 2026 – Present*
+
+📋 **NCFE Level 3 Certificate in Data Analytics**
+Think Employment Skills Bootcamp — *Jan–Mar 2026*
+`SQL` · `Python` · `Power BI` · `Excel` · `ETL` · `Statistical Analysis` · `Business Intelligence`
+
+🏫 **Diploma in Computer Science** *(1st Position in College)*
+Abacus College of Computer & Management Sciences, Pakistan — *1996–1997*
+
+🎓 **Bachelor of Arts (BA)**
+University of the Punjab, Pakistan — *1995–1997*
+
+---
+
+## 📊 Sectors I've Worked In
+
+| Sector | Experience |
+|--------|-----------|
+| 🏥 Healthcare | Patient DBs, clinical reporting, sensitive data governance |
+| 🛒 Retail | Lidl KPIs, stock analytics, sales forecasting |
+| 💰 Financial Services | MIS, leasing systems, senior management reporting |
+| 🔧 Consulting | Long-term client DB & systems work, ETL, dashboards |
+| 🎓 Education | Teaching programming and database systems |
+
+---
+
+## 🌱 Currently Working On
+
+- 📖 MSc modules in Data Analytics at City St George's, University of London
+- 🐍 Deepening Python for data engineering and automation
+- 📊 Building Power BI portfolio projects
+- 🔁 Modernising ETL workflows with cloud-ready approaches
+
+---
+
+## 📬 Let's Connect
+
+I'm actively looking for **Data Analyst** and **Data Engineer** roles.
+If you're working on interesting data problems — especially in **healthcare, finance, or retail** — I'd love to talk.
+
+📧 **bukhtawarali@gmail.com** | 📍 **London, UK**
+
+---
+
+<div align="center">
+
+*"From Oracle in 1990s Pakistan to Power BI in 2020s London — the tools change, the passion doesn't."*
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bukhtawarali.bukhtawarali)
+
+</div>
