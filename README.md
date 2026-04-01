@@ -145,7 +145,7 @@ If you're working on interesting data problems — especially in **healthcare, f
 <div align="center">
 
 <p>
-  <code>TOOL</code> <b>Oracle, SQL</b> &nbsp;·&nbsp; 
+  <code>TOOL</code> <b> Oracle, SQL, Database Design </b> &nbsp;·&nbsp; 
   <code>ERA</code> 1990s &nbsp;·&nbsp; 
   <code>PLACE</code> Pakistan &nbsp;→&nbsp; 
   <code>TOOL</code> <b>SQL , Database, Power BI , EXCEL, Python </b> &nbsp;·&nbsp; 
