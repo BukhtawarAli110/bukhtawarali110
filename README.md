@@ -1,4 +1,4 @@
-## Hi there/Assalamu-alaikum 👋
+## Hi there 👋
 
 # I am Bukhtawar Ali,a UK based data analyst/engineer and coder who has a particular interest in data (obviously) and used to work at Oracle in Pakistan in the 90s
 
