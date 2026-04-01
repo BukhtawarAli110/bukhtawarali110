@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+Power+BI)](https://git.io/typing-svg)
 
 **London, UK &nbsp;·&nbsp; 25+ years in data &nbsp;·&nbsp; Oracle OCP 54/57**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukhtawar-ali-4441291a9)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bukhtawarali@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BukhtawarAli110)
