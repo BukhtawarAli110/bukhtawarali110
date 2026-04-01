@@ -208,6 +208,6 @@ If you're working on interesting data problems — especially in **healthcare, f
   <i>— the tools change, the <b>passion</b> <code>CONSTANT</code> doesn't.</i>
 </p>
 <p>
- ![](https://komarev.com/ghpvc/?username=BukhtawarAli110&style=flat-square&color=378ADD&label=profile+views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBukhtawarAli110&count_bg=%23378ADD&title_bg=%23161B22&icon=github.svg&icon_color=%23E6EDF3&title=profile+views&edge_flat=true)
 </p>
 </div>
