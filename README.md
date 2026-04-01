@@ -148,7 +148,7 @@ If you're working on interesting data problems — especially in **healthcare, f
   <code>TOOL</code> <b> Oracle, SQL, Database Design </b> &nbsp;·&nbsp; 
   <code>ERA</code> 1990s &nbsp;·&nbsp; 
   <code>PLACE</code> Pakistan &nbsp;→&nbsp; 
-  <code>TOOL</code> <b>SQL , Database, Power BI , EXCEL, Python </b> &nbsp;·&nbsp; 
+  <code>TOOL</code> <b>SQL , Database, Power BI , Excel, Python </b> &nbsp;·&nbsp; 
   <code>ERA</code> 2020s &nbsp;·&nbsp; 
   <code>PLACE</code> London
   <br/>
