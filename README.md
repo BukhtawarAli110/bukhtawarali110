@@ -208,6 +208,6 @@ If you're working on interesting data problems — especially in **healthcare, f
   <i>— the tools change, the <b>passion</b> <code>CONSTANT</code> doesn't.</i>
 </p>
 <p>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BukhtawarAli110)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/BukhtawarAli110)
  
 </div>
