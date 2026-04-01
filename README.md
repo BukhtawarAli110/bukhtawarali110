@@ -1,5 +1,48 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+Power+BI)](https://git.io/typing-svg)
+
+**London, UK &nbsp;·&nbsp; 25+ years in data &nbsp;·&nbsp; Oracle OCP 54/57**
+
+</div>
+
+---
+
+### 🔷 Modern Stack
+
+![Python](https://img.shields.io/badge/Python-0C447C?style=for-the-badge&logo=python&logoColor=85B7EB)
+![Power BI](https://img.shields.io/badge/Power_BI-633806?style=for-the-badge&logo=powerbi&logoColor=EF9F27)
+![SQL](https://img.shields.io/badge/SQL_·_PL/SQL-0C447C?style=for-the-badge&logo=postgresql&logoColor=85B7EB)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-085041?style=for-the-badge&logoColor=5DCAA5)
+![Data Modelling](https://img.shields.io/badge/Data_Modelling-3C3489?style=for-the-badge&logoColor=AFA9EC)
+![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3C3489?style=for-the-badge&logoColor=AFA9EC)
+![Excel](https://img.shields.io/badge/Excel_Advanced-633806?style=for-the-badge&logo=microsoftexcel&logoColor=EF9F27)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-173404?style=for-the-badge&logo=googlesheets&logoColor=97C459)
+![Oracle](https://img.shields.io/badge/Oracle_OCP_54%2F57-4A1B0C?style=for-the-badge&logo=oracle&logoColor=F0997B)
+![GDPR](https://img.shields.io/badge/GDPR_·_Data_Governance-21262D?style=for-the-badge&logoColor=8B949E)
+![Dashboards](https://img.shields.io/badge/Dashboard_Design-085041?style=for-the-badge&logoColor=5DCAA5)
+![Stats](https://img.shields.io/badge/Statistical_Analysis-3C3489?style=for-the-badge&logoColor=AFA9EC)
+
+---
+
+### 📡 Currently Learning
+
+![MSc](https://img.shields.io/badge/MSc_Data_Analytics-City_St_George's-0C447C?style=flat-square&logo=university&logoColor=white)
+![Bootcamp](https://img.shields.io/badge/NCFE_Level_3_Bootcamp-In_Progress-085041?style=flat-square)
+![PowerBI Course](https://img.shields.io/badge/Power_BI_·_Coursera-2026-633806?style=flat-square&logo=coursera&logoColor=EF9F27)
+![Google](https://img.shields.io/badge/Google_Certified_Educator_L1_%26_L2-2026-173404?style=flat-square&logo=google&logoColor=97C459)
+
+---
+
+| | |
+|---|---|
+| 🗄️ **Sectors** | Healthcare · Retail · Financial Services |
+| 📊 **Specialisms** | BI Reporting · ETL Design · KPI Dashboards · MIS |
+| 🎯 **Seeking** | Data Analyst · Data Engineer roles |
+
+> `oracle` → `sql server` → `python` → `power bi` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
+<div align="center">
+
 ## `< Bukhtawar Ali />`
 
 ### Data Analyst · Data Engineer · SQL Architect · Python Coder
