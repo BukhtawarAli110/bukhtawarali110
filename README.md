@@ -48,13 +48,31 @@
 > `oracle` → `sql server` → `python` → `power bi` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
 
 ---
+## 👋 Hey, I'm Bukhtawar Ali
 
-## 👋 Who Am I?
+I've spent 25+ years obsessing over one thing: **making data make sense.**
 
-I'm **Bukhtawar Ali** — a UK-based **Data Analyst & Engineer** with a career that started in the Oracle labs of 1990s Pakistan and has never stopped evolving.
+Not just querying it — modelling it, pipelining it, warehousing it, and turning it
+into dashboards that help people make better decisions. I've done this in hospitals,
+retail operations, and financial services — places where getting the data wrong
+actually matters.
 
-I began as a **Database Developer** working directly with Oracle systems, building MIS platforms and patient information systems from the ground up. Fast-forward to today — I'm completing a **Data Analytics Bootcamp (NCFE Level 3)**, enrolled in an **MSc in Computer Science with Data Analytics** at City St George's, University of London, and bringing modern tools like **Python, Power BI, and cloud-ready ETL pipelines** to a foundation built over two and a half decades.
+My day-to-day lives at the intersection of three things:
 
+- 🔷 **Analytics** — SQL, Python, statistical analysis, KPI reporting
+- 📊 **BI & Visualisation** — Power BI dashboards, MIS reporting, stakeholder-ready insights  
+- ⚙️ **Data Engineering** — ETL pipeline design, data modelling, warehouse architecture
+
+Right now I'm pushing into the modern stack hard — halfway through an
+**MSc in Computer Science with Data Analytics** at City St George's,
+fresh off an **NCFE Level 3 Data Analytics Bootcamp**, and certified in
+**Power BI** and **Google Educator L1 & L2** (both 2026).
+
+I hold an **Oracle Certified Professional** qualification that I scored
+**54 out of 57** on — back when you had to actually know your SQL.
+
+> *The tools on my CV have changed a lot over the years.*  
+> *The hunger to get the data right hasn't.*
 > *"Data is only as powerful as the story it tells — I build both."*
 
 ---
