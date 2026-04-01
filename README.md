@@ -13,7 +13,7 @@
 
 ---
 
-### 🔷 Modern Stack
+### Modern Stack
 
 ![Python](https://img.shields.io/badge/Python-0C447C?style=for-the-badge&logo=python&logoColor=85B7EB)
 ![Power BI](https://img.shields.io/badge/Power_BI-633806?style=for-the-badge&logo=powerbi&logoColor=EF9F27)
@@ -30,7 +30,7 @@
 
 ---
 
-### 📡 Currently Learning
+### Currently Learning
 
 ![MSc](https://img.shields.io/badge/MSc_Data_Analytics-City_St_George's-0C447C?style=flat-square&logo=university&logoColor=white)
 ![Bootcamp](https://img.shields.io/badge/NCFE_Level_3_Bootcamp-2026-085041?style=flat-square)
@@ -41,9 +41,9 @@
 
 | | |
 |---|---|
-| 🗄️ **Sectors** | Healthcare · Retail · Financial Services |
-| 📊 **Specialisms** | BI Reporting · ETL Design · KPI Dashboards · MIS |
-| 🎯 **Seeking** | Data Analyst · Data Engineer roles |
+| **Sectors** | Healthcare · Retail · Financial Services |
+| **Specialisms** | BI Reporting · ETL Design · KPI Dashboards · MIS |
+| **Seeking** | Data Analyst · Data Engineer roles |
 
 > `oracle` → `sql server` → `python` → `power bi` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
 
@@ -59,9 +59,9 @@ actually matters.
 
 My day-to-day lives at the intersection of three things:
 
-- 🔷 **Analytics** — SQL, Python, statistical analysis, KPI reporting
-- 📊 **BI & Visualisation** — Power BI dashboards, MIS reporting, stakeholder-ready insights  
-- ⚙️ **Data Engineering** — ETL pipeline design, data modelling, warehouse architecture
+- **Analytics** — SQL, Python, statistical analysis, KPI reporting
+- **BI & Visualisation** — Power BI dashboards, MIS reporting, stakeholder-ready insights  
+- **Data Engineering** — ETL pipeline design, data modelling, warehouse architecture
 
 Right now I'm pushing into the modern stack hard — halfway through an
 **MSc in Computer Science with Data Analytics** at City St George's,
@@ -77,7 +77,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Query
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -104,85 +104,85 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 | Year | Certification |
 |------|--------------|
-| 2026 | 📊 **Power BI: Data Analytics & Data Preparation** — Coursera |
-| 2026 | 🎓 **Google Certified Educator Level 1 & Level 2** |
-| 2026 | 📋 **NCFE Level 3 Certificate in Data Analytics** — Think Employment Bootcamp |
-| 2001 | 🌐 **Web Page Development Certificate** — HTML, JavaScript, Web Systems — Softlogix |
-| 2001 | 💻 **Brainbench** — Oracle Programmer (E-Cert), Windows Administrator |
-| 1999 | 🏅 **Oracle Certified Professional (OCP)** — Developer Track, SQL/PL-SQL — **Score: 54/57** |
+| 2026 | **Power BI: Data Analytics & Data Preparation** — Coursera |
+| 2026 | **Google Certified Educator Level 1 & Level 2** |
+| 2026 | **NCFE Level 3 Certificate in Data Analytics** — Think Employment Bootcamp |
+| 2001 | **Web Page Development Certificate** — HTML, JavaScript, Web Systems — Softlogix |
+| 2001 | **Brainbench** — Oracle Programmer (E-Cert), Windows Administrator |
+| 1999 | **Oracle Certified Professional (OCP)** — Developer Track, SQL/PL-SQL — **Score: 54/57** |
 
 ---
 
-## 💼 Career Timeline
+## Career Timeline
 
 ```
 1997 ──────────────────────────────────────────────────────────── Present
  │
- ├─ 🏥  Database Developer        │ Urgent Medical Diagnostic Centre  │ 1997–1999
+ ├─ Database Developer        │ Urgent Medical Diagnostic Centre  │ 1997–1999
  │      FoxPro · patient DBs · clinical reporting
  │
- ├─ 🎓  Computer Instructor (PT)  │ ACCMS / Abacus College, PK        │ 1997–2000
+ ├─ Computer Instructor (PT)  │ ACCMS / Abacus College, PK        │ 1997–2000
  │      Programming · DB systems · diploma students
  │
- ├─ 💰  DB Programmer / MIS Officer│ Askari Leasing Ltd., PK           │ 1999–2000
+ ├─ DB Programmer / MIS Officer│ Askari Leasing Ltd., PK           │ 1999–2000
  │      SQL · FoxPro · financial MIS · senior mgmt reporting
  │
- ├─ 🩺  Database Developer        │ GAMCA, Islamabad PK               │ 2000–2001
+ ├─ Database Developer        │ GAMCA, Islamabad PK               │ 2000–2001
  │      Oracle · PL-SQL · patient data · web-enabled reporting
  │
- ├─ 🔧  DB & Systems Consultant   │ Albion Highland, London UK        │ 2002–2021
+ ├─ DB & Systems Consultant   │ Albion Highland, London UK        │ 2002–2021
  │      Oracle · MS Access · ETL · dashboards · web platforms
  │
- ├─ 🛒  Store Manager (Data Focus)│ Lidl UK GmbH                      │ 2005–2016
+ ├─ Store Manager (Data Focus)│ Lidl UK GmbH                      │ 2005–2016
  │      Retail analytics · KPIs · forecasting · compliance
  │
  ├─ ⏸️  Career Break              │ Health recovery & family caring   │ 2021–2024
  │
- └─ 🚀  Returning & Upskilling    │ MSc + Bootcamp + Power BI + Python│ 2025–Now
+ └─ Returning & Upskilling    │ MSc + Bootcamp + Power BI + Python│ 2025–Now
         Actively seeking: Data Analyst · Data Engineer roles
 ```
 
 ---
 
-## 📚 Education
+## Education
 
-🎓 **MSc Computer Science with Data Analytics** *(in progress)*
+**MSc Computer Science with Data Analytics** *(in progress)*
 City St George's, University of London — *Feb 2026 – Present*
 
-📋 **NCFE Level 3 Certificate in Data Analytics**
+**NCFE Level 3 Certificate in Data Analytics**
 Think Employment Skills Bootcamp — *Jan–Mar 2026*
 `SQL` · `Python` · `Power BI` · `Excel` · `ETL` · `Statistical Analysis` · `Business Intelligence`
 
-🏫 **Diploma in Computer Science** *(1st Position in College)*
+**Diploma in Computer Science** *(1st Position in College)*
 Abacus College of Computer & Management Sciences, Pakistan — *1996–1997*
 
-🎓 **Bachelor of Arts (BA)**
+**Bachelor of Arts (BA)**
 University of the Punjab, Pakistan — *1995–1997*
 
 ---
 
-## 📊 Sectors I've Worked In
+## Sectors I've Worked In
 
 | Sector | Experience |
 |--------|-----------|
-| 🏥 Healthcare | Patient DBs, clinical reporting, sensitive data governance |
-| 🛒 Retail | Lidl KPIs, stock analytics, sales forecasting |
-| 💰 Financial Services | MIS, leasing systems, senior management reporting |
-| 🔧 Consulting | Long-term client DB & systems work, ETL, dashboards |
-| 🎓 Education | Teaching programming and database systems |
+| Healthcare | Patient DBs, clinical reporting, sensitive data governance |
+| Retail | Lidl KPIs, stock analytics, sales forecasting |
+| Financial Services | MIS, leasing systems, senior management reporting |
+| Consulting | Long-term client DB & systems work, ETL, dashboards |
+| Education | Teaching programming and database systems |
 
 ---
 
-## 🌱 Currently Working On
+## Currently Working On:
 
-- 📖 MSc modules in Data Analytics at City St George's, University of London
-- 🐍 Deepening Python for data engineering and automation
-- 📊 Building Power BI portfolio projects
-- 🔁 Modernising ETL workflows with cloud-ready approaches
+- MSc modules in Data Analytics at City St George's, University of London
+- Deepening Python for data engineering and automation
+- Building Power BI portfolio projects
+- Modernising ETL workflows with cloud-ready approaches
 
 ---
 
