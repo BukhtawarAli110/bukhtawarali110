@@ -207,5 +207,7 @@ If you're working on interesting data problems — especially in **healthcare, f
   <br/>
   <i>— the tools change, the <b>passion</b> <code>CONSTANT</code> doesn't.</i>
 </p>
-![](https://komarev.com/ghpvc/?username=BukhtawarAli110&style=flat-square&color=378ADD&label=profile+views)
+<p>
+ ![](https://komarev.com/ghpvc/?username=BukhtawarAli110&style=flat-square&color=378ADD&label=profile+views)
+</p>
 </div>
