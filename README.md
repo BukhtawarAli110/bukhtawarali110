@@ -191,7 +191,7 @@ University of the Punjab, Pakistan — *1995–1997*
 I'm actively looking for **Data Analyst** and **Data Engineer** roles.
 If you're working on interesting data problems — especially in **healthcare, finance, or retail** — I'd love to talk.
 
-📧 **bukhtawarali@gmail.com** | 📍 **London, UK**
+📧 **bukhtawarali@hotmail.com** | 📍 **London, UK**
 
 ---
 
