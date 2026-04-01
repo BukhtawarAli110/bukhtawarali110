@@ -144,8 +144,16 @@ If you're working on interesting data problems — especially in **healthcare, f
 
 <div align="center">
 
-*"From Oracle in 1990s Pakistan to Power BI in 2020s London — the tools change, the passion doesn't."*
-
+<p>
+  <code>TOOL</code> <b>Oracle</b> &nbsp;·&nbsp; 
+  <code>ERA</code> 1990s &nbsp;·&nbsp; 
+  <code>PLACE</code> Pakistan &nbsp;→&nbsp; 
+  <code>TOOL</code> <b>Power BI</b> &nbsp;·&nbsp; 
+  <code>ERA</code> 2020s &nbsp;·&nbsp; 
+  <code>PLACE</code> London
+  <br/>
+  <i>— the tools change, the <b>passion</b> <code>CONSTANT</code> doesn't.</i>
+</p>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bukhtawarali.bukhtawarali)
 
 </div>
