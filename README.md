@@ -208,6 +208,5 @@ If you're working on interesting data problems — especially in **healthcare, f
   <i>— the tools change, the <b>passion</b> <code>CONSTANT</code> doesn't.</i>
 </p>
 <p>
-![BukhtawarAli110's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BukhtawarAli110&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-</p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BukhtawarAli110.BukhtawarAli110)
 </div>
