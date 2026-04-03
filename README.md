@@ -5,7 +5,7 @@
 **London, UK &nbsp;·&nbsp; 25+ years in data &nbsp;·&nbsp; Oracle OCP 54/57**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukhtawar-ali-4441291a9)
-[![Email](https://img.shields.io/badge/📧_Email_Me-0078D4?style=for-the-badge)](mailto:bukhtawarali@hotmail.com)
+[![Email](https://img.shields.io/badge/📧_Email_Me-0078D4?style=for-the-badge)](mailto:contactbukhtawar.ali@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BukhtawarAli110)
 
 
@@ -191,7 +191,7 @@ University of the Punjab, Pakistan — *1995–1997*
 I'm actively looking for **Data Analyst** and **Data Engineer** roles.
 If you're working on interesting data problems — especially in **healthcare, finance, or retail** — I'd love to talk.
 
-📧 **bukhtawarali@hotmail.com** | 📍 **London, UK**
+📧 **contactbukhtawar.ali@gmail.com** | 📍 **London, UK**
 
 ---
 
