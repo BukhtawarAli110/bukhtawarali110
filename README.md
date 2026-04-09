@@ -21,6 +21,7 @@
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-085041?style=for-the-badge&logoColor=5DCAA5)
 ![Data Modelling](https://img.shields.io/badge/Data_Modelling-3C3489?style=for-the-badge&logoColor=AFA9EC)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3C3489?style=for-the-badge&logoColor=AFA9EC)
+![Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-gb/BukhtawarAli-3864/9C85F9C8CAAE27CD?sharingId=D19D4C841179943E?style=for-the-badge&logo=python&logoColor=85B7EB)
 ![Excel](https://img.shields.io/badge/Excel_Advanced-633806?style=for-the-badge&logo=microsoftexcel&logoColor=EF9F27)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-173404?style=for-the-badge&logo=googlesheets&logoColor=97C459)
 ![Oracle](https://img.shields.io/badge/Oracle_OCP_54%2F57-4A1B0C?style=for-the-badge&logo=oracle&logoColor=F0997B)
