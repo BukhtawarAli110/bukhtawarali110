@@ -85,7 +85,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 ### Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -98,7 +98,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-0052CC?style=flat-square&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-FF6F00?style=flat-square&logoColor=white)
 ![Data Modelling](https://img.shields.io/badge/Data_Modelling-8A2BE2?style=flat-square&logoColor=white)
-![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-blue?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ### Governance & Compliance
 ![GDPR](https://img.shields.io/badge/GDPR-003087?style=flat-square&logoColor=white)
