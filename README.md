@@ -98,6 +98,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 ![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-0052CC?style=flat-square&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-FF6F00?style=flat-square&logoColor=white)
 ![Data Modelling](https://img.shields.io/badge/Data_Modelling-8A2BE2?style=flat-square&logoColor=white)
+![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Governance & Compliance
 ![GDPR](https://img.shields.io/badge/GDPR-003087?style=flat-square&logoColor=white)
@@ -109,6 +110,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 | Year | Certification |
 |------|--------------|
+| 2026 | **Azure Data Fundamentals: Microsoft Certified ** — Microsoft |
 | 2026 | **Power BI: Data Analytics & Data Preparation** — Coursera |
 | 2026 | **Google Certified Educator Level 1 & Level 2** |
 | 2026 | **NCFE Level 3 Certificate in Data Analytics** — Think Employment Bootcamp |
