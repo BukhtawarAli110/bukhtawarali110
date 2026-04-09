@@ -110,7 +110,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 | Year | Certification |
 |------|--------------|
-| 2026 | **Azure Data Fundamentals: Microsoft Certified ** — Microsoft |
+| 2026 | **Azure Data Fundamentals: Microsoft Certified** — Microsoft |
 | 2026 | **Power BI: Data Analytics & Data Preparation** — Coursera |
 | 2026 | **Google Certified Educator Level 1 & Level 2** |
 | 2026 | **NCFE Level 3 Certificate in Data Analytics** — Think Employment Bootcamp |
