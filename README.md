@@ -16,6 +16,7 @@
 ### Modern Stack
 
 ![Python](https://img.shields.io/badge/Python-0C447C?style=for-the-badge&logo=python&logoColor=85B7EB)
+![COBOL](https://img.shields.io/badge/COBOL-0C447C?style=for-the-badge&logo=cobol&logoColor=85B7EB)
 ![Power BI](https://img.shields.io/badge/Power_BI-633806?style=for-the-badge&logo=powerbi&logoColor=EF9F27)
 ![SQL](https://img.shields.io/badge/SQL_·_PL/SQL-0C447C?style=for-the-badge&logo=postgresql&logoColor=85B7EB)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-085041?style=for-the-badge&logoColor=5DCAA5)
