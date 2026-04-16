@@ -68,7 +68,7 @@ My day-to-day lives at the intersection of three things:
 
 Right now I'm pushing into the modern stack hard — halfway through an
 **MSc in Computer Science with Data Analytics** at City St George's,
-fresh off an **NCFE Level 3 Data Analytics Bootcamp**, and certified in
+fresh off an **NCFE Level 3 Data Analytics Bootcamp**, working in **Multiple COBOL courses** and certified in
 **Power BI** and **Google Educator L1 & L2** (both 2026).
 
 I hold an **Oracle Certified Professional** qualification that I scored
