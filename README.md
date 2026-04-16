@@ -189,6 +189,7 @@ University of the Punjab, Pakistan — *1995–1997*
 - Deepening Python for data engineering and automation
 - Building Power BI portfolio projects
 - Modernising ETL workflows with cloud-ready approaches
+- Learning COBOL and remembering from my prior COBOL experience i had at Abacus College
 
 ---
 
