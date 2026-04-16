@@ -87,6 +87,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-0C447C?style=for-the-badge&logo=cobol&logoColor=85B7EB)
 
 
 ### Analytics & BI
