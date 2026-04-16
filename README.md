@@ -37,6 +37,7 @@
 ![MSc](https://img.shields.io/badge/MSc_Data_Analytics-City_St_George's-0C447C?style=flat-square&logo=university&logoColor=white)
 ![Bootcamp](https://img.shields.io/badge/NCFE_Level_3_Bootcamp-2026-085041?style=flat-square)
 ![PowerBI Course](https://img.shields.io/badge/Power_BI_·_Coursera-2026-633806?style=flat-square&logo=coursera&logoColor=EF9F27)
+![COBOL Course](https://img.shields.io/badge/COBOL%20Basics,%20Core%20and%20Software%20Devolpment_%C2%B7_Coursera-2026-633806?style=flat-square&logo=coursera&logoColor=EF9F27)
 ![Google](https://img.shields.io/badge/Google_Certified_Educator_L1_%26_L2-2026-173404?style=flat-square&logo=google&logoColor=97C459)
 
 ---
