@@ -148,8 +148,8 @@ I hold an **Oracle Certified Professional** qualification that I scored
  │
  ├─ ⏸️  Career Break              │ Health recovery & family caring   │ 2021–2024
  │
- └─ Returning & Upskilling    │ MSc + Bootcamp + Power BI + Python│ 2025–Now
-        Actively seeking: Data Analyst · Data Engineer roles
+ └─ Returning & Upskilling    │ MSc + Bootcamp + Power BI + Python + COBOL│ 2025–Now
+        Actively seeking: Data Analyst · Data Engineer . COBOL roles
 ```
 
 ---
@@ -194,7 +194,7 @@ University of the Punjab, Pakistan — *1995–1997*
 
 ## 📬 Let's Connect
 
-I'm actively looking for **Data Analyst** and **Data Engineer** roles.
+I'm actively looking for **Data Analyst**, **Data Engineer** and **COBOL** roles.
 If you're working on interesting data problems — especially in **healthcare, finance, or retail** — I'd love to talk.
 
 📧 **contactbukhtawar.ali@gmail.com** | 📍 **London, UK**
