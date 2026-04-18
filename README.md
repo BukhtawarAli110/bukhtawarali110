@@ -23,7 +23,6 @@
 <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/azure" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="42px" />
 </p>
