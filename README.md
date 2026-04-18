@@ -12,6 +12,7 @@
 </div>
 
 ---
+<p>
 <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
@@ -24,6 +25,8 @@
 <img src="https://iconic-api.onrender.com/dark/azure" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
+</p>
+---
 ### Modern Stack
 
 ![Python](https://img.shields.io/badge/Python-0C447C?style=for-the-badge&logo=python&logoColor=85B7EB)
