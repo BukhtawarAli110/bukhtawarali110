@@ -25,7 +25,7 @@
 <img src="https://iconic-api.onrender.com/dark/azure" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="64px" />
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="32px" />
 </p>
 
 
