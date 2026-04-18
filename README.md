@@ -12,7 +12,18 @@
 </div>
 
 ---
-
+<img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/python" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/github" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/html" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/pycharm" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/jupyter" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/azure" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/aws" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
 ### Modern Stack
 
 ![Python](https://img.shields.io/badge/Python-0C447C?style=for-the-badge&logo=python&logoColor=85B7EB)
