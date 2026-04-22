@@ -68,7 +68,7 @@
 ---
 ## 👋 Hey, I'm Bukhtawar Ali
 
-I've spent 25+ years obsessing over one thing: **making data make sense.**
+I've spent 18+ years obsessing over one thing: **making data make sense.**
 
 Not just querying it — modelling it, pipelining it, warehousing it, and turning it
 into dashboards that help people make better decisions. I've done this in hospitals,
