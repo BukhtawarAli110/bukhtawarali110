@@ -15,6 +15,8 @@
 <p>
 <img src="https://iconic-api.onrender.com/dark/mysql" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/postgresql" width="64px" />
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="42px" />
+<img src="https://iconic-api.onrender.com/dark/azure" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/python" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/github" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/html" width="64px" />
@@ -22,9 +24,8 @@
 <img src="https://iconic-api.onrender.com/dark/jupyter" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
-<img src="https://iconic-api.onrender.com/dark/azure" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="42px" />
+
 </p>
 
 
