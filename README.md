@@ -61,7 +61,7 @@
 | **Specialisms** | BI Reporting · ETL Design · KPI Dashboards · MIS |
 | **Seeking** | Data Analyst · Data Engineer roles |
 
-> `oracle` → `sql server` → `python` → `power bi` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
+> `Oracle / MySQL` → `Azure / Sql server` → `python` → `Power BI` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
 
 ---
 ## 👋 Hey, I'm Bukhtawar Ali
