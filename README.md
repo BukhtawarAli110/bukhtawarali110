@@ -45,7 +45,7 @@
 ![GDPR](https://img.shields.io/badge/GDPR_·_Data_Governance-21262D?style=for-the-badge&logoColor=8B949E)
 ![Dashboards](https://img.shields.io/badge/Dashboard_Design-085041?style=for-the-badge&logoColor=5DCAA5)
 ![Stats](https://img.shields.io/badge/Statistical_Analysis-3C3489?style=for-the-badge&logoColor=AFA9EC)
-![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_Certified_Educator_L1_%26_L2-2026-173404?style=for-the-badge&logo=google&logoColor=97C459)
 
 ---
