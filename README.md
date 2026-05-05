@@ -163,9 +163,9 @@ I hold an **Oracle Certified Professional** qualification that I scored
  ├─ Store Manager (Data Focus)│ Lidl UK GmbH                      │ 2005–2016
  │      Retail analytics · KPIs · forecasting · compliance
  │
- ├─ ⏸️  Career Break              │ Health recovery & family caring   │ 2021–2024
+ ├─ ⏸️  Career Break              │ Health recovery & family caring   │ 2021–2025
  │
- └─ Returning & Upskilling    │ MSc + Bootcamp + Power BI + Python + COBOL│ 2025–Now
+ └─ Returning & Upskilling    │ MSc + Bootcamp + Power BI + Python + COBOL│ 2026–Now
         Actively seeking: Data Analyst · Data Engineer . COBOL roles
 ```
 
