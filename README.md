@@ -45,6 +45,7 @@
 ![GDPR](https://img.shields.io/badge/GDPR_·_Data_Governance-21262D?style=for-the-badge&logoColor=8B949E)
 ![Dashboards](https://img.shields.io/badge/Dashboard_Design-085041?style=for-the-badge&logoColor=5DCAA5)
 ![Stats](https://img.shields.io/badge/Statistical_Analysis-3C3489?style=for-the-badge&logoColor=AFA9EC)
+![Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google](https://img.shields.io/badge/Google_Certified_Educator_L1_%26_L2-2026-173404?style=for-the-badge&logo=google&logoColor=97C459)
 
 ---
@@ -128,7 +129,8 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 | Year | Certification |
 |------|--------------|
-| 2026 | **Azure Data Fundamentals: Microsoft Certified** — Microsoft |
+| 2026 | **Azure Fundamentals AZ-900: Microsoft Certified** — Microsoft |
+| 2026 | **Azure Data Fundamentals DP-900: Microsoft Certified** — Microsoft |
 | 2026 | **Power BI: Data Analytics & Data Preparation** — Coursera |
 | 2026 | **Google Certified Educator Level 1 & Level 2** |
 | 2026 | **NCFE Level 3 Certificate in Data Analytics** — Think Employment Bootcamp |
