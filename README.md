@@ -145,6 +145,11 @@ back when you had to actually know your SQL.
 | 2026 | **GenAI Bootcamp for Students**, Outskill *(7-day live programme, practical workbooks, final assessment)* |
 | 2026 | **Generative AI Mastermind**, Outskill *(2-day live workshop: AI foundations, workflow automation)* |
 | 2026 | **Google Certified Educator Level 1 & Level 2** |
+
+### Legacy Qualifications
+
+| Year | Qualification |
+|------|--------------|
 | 2001 | **Web Page Development Certificate**, HTML, JavaScript, Web Systems, Softlogix |
 | 2001 | **Brainbench**, Oracle Programmer (E-Cert), Windows Administrator |
 | 1999 | **Oracle Certified Professional (OCP)**, Developer Track, SQL/PL-SQL, **Score: 54/57** |
