@@ -39,7 +39,7 @@
 ![Data Modelling](https://img.shields.io/badge/Data_Modelling-3C3489?style=for-the-badge&logoColor=AFA9EC)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-3C3489?style=for-the-badge&logoColor=AFA9EC)
 ![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Advanced-633806?style=for-the-badge&logo=microsoftexcel&logoColor=EF9F27)
+![Excel](https://img.shields.io/badge/Excel-633806?style=for-the-badge&logo=microsoftexcel&logoColor=EF9F27)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-173404?style=for-the-badge&logo=googlesheets&logoColor=97C459)
 ![Oracle](https://img.shields.io/badge/Oracle_OCP_54%2F57-4A1B0C?style=for-the-badge&logo=oracle&logoColor=F0997B)
 ![GDPR](https://img.shields.io/badge/GDPR_·_Data_Governance-21262D?style=for-the-badge&logoColor=8B949E)
@@ -54,7 +54,7 @@
 
 ![MSc](https://img.shields.io/badge/MSc_Data_Analytics-City_St_George's-0C447C?style=flat-square&logo=university&logoColor=white)
 ![PL-300](https://img.shields.io/badge/Microsoft_PL--300_Power_BI_Data_Analyst-exam_target_Nov_2026-633806?style=flat-square&logo=powerbi&logoColor=EF9F27)
-![COBOL Course](https://img.shields.io/badge/COBOL%20Basics,%20Core%20and%20Software%20Devolpment_%C2%B7_Coursera-2026-633806?style=flat-square&logo=coursera&logoColor=EF9F27)
+![COBOL Course](https://img.shields.io/badge/COBOL%20Basics,%20Core%20and%20Software%20Development_%C2%B7_Coursera-2026-633806?style=flat-square&logo=coursera&logoColor=EF9F27)
 
 
 ---
@@ -62,38 +62,41 @@
 | | |
 |---|---|
 | **Sectors** | Healthcare · Retail · Financial Services |
-| **Specialisms** | BI Reporting · ETL Design · KPI Dashboards · MIS |
+| **Specialisms** | BI Reporting · KPI Dashboards · Data Modelling · ETL |
 | **Seeking** | Data Analyst · Data Engineer roles |
 
-> `Oracle / MySQL` → `Azure / Sql server` → `python` → `Power BI` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
+> `Oracle / MySQL` → `Azure / SQL Server` → `Python` → `Power BI` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
 
 ---
 ## 👋 Hey, I'm Bukhtawar Ali
 
-I've spent 18+ years obsessing over one thing: **making data make sense.**
+I've been building databases since 1997, and one thing has kept me at it: **making data make sense.**
 
-Not just querying it — modelling it, pipelining it, warehousing it, and turning it
-into dashboards that help people make better decisions. I've done this in hospitals,
-retail operations, and financial services — places where getting the data wrong
-actually matters.
+I started out as an Oracle and SQL developer in Pakistan, working on patient, leasing and
+inventory systems. In the UK I kept a company's sales and inventory database running for
+nearly twenty years, alongside managing Lidl stores and later running a private hire business.
+So I've written the queries, and I've also been the manager who has to act on the report.
 
-My day-to-day lives at the intersection of three things:
+What I work with now:
 
-- **Analytics** — SQL, Python, statistical analysis, KPI reporting
-- **BI & Visualisation** — Power BI dashboards, MIS reporting, stakeholder-ready insights  
-- **Data Engineering** — ETL pipeline design, data modelling, warehouse architecture
+- **Analytics**: SQL, Python (Pandas, NumPy), KPI and management reporting
+- **BI & Visualisation**: Power BI (Power Query, data modelling, DAX), Excel
+- **Data Engineering**: relational database design, ETL, data cleansing and validation
 
-Right now I'm pushing into the modern stack hard — halfway through an
-**MSc in Computer Science with Data Analytics** at City St George's,
-fresh off an **NCFE Level 3 Data Analytics Bootcamp**, working in **Multiple COBOL courses** and certified in
-**Power BI** and **Google Educator L1 & L2** (both 2026).
+In 2026 I went back to the books. I'm studying for an
+**MSc in Computer Science with Data Analytics** at City St George's, I've finished the
+**NCFE Level 3 Data Analytics Bootcamp**, and I passed **Azure Fundamentals (AZ-900)** and
+**Azure Data Fundamentals (DP-900)**. **PL-300** is next. I'm also working through several
+**COBOL** courses and hold **Google Certified Educator L1 & L2**.
 
-I hold an **Oracle Certified Professional** qualification that I scored
-**54 out of 57** on — back when you had to actually know your SQL.
+I'm a vibe coder too: I work with AI tools to get from an idea to working code quickly.
+
+I passed **Oracle Certified Professional** in 1999 with **54 out of 57**,
+back when you had to actually know your SQL.
 
 > *The tools on my CV have changed a lot over the years.*  
 > *The hunger to get the data right hasn't.* <br>
-> *Data is only as powerful as the story it tells — I build both.*
+> *Data is only as powerful as the story it tells. I build both.*
 
 ---
 
@@ -109,7 +112,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 ### Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel_(Advanced)-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
@@ -130,18 +133,18 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 | Year | Certification |
 |------|--------------|
-| In preparation | **Microsoft PL-300 Power BI Data Analyst** — Microsoft *(exam target Nov 2026)* |
-| 2026 | **Azure Data Fundamentals DP-900: Microsoft Certified** — Microsoft |
-| 2026 | **Azure Fundamentals AZ-900: Microsoft Certified** — Microsoft |
-| 2026 | **NCFE Level 3 Certificate in Data Analytics** — Think Employment Bootcamp |
-| 2026 | **AI-Powered Analytics with Power BI** (DAX, Fabric, Copilot) — EduHubSpot |
-| 2026 | **Power BI: Data Analytics & Data Preparation** — Coursera |
-| 2026 | **GenAI Bootcamp for Students** — Outskill *(7-day live programme, practical workbooks, final assessment)* |
-| 2026 | **Generative AI Mastermind** — Outskill *(2-day live workshop: AI foundations, workflow automation)* |
+| In preparation | **Microsoft PL-300 Power BI Data Analyst**, Microsoft *(exam target Nov 2026)* |
+| 2026 | **Azure Data Fundamentals DP-900: Microsoft Certified**, Microsoft |
+| 2026 | **Azure Fundamentals AZ-900: Microsoft Certified**, Microsoft |
+| 2026 | **NCFE Level 3 Certificate in Data Analytics**, Think Employment Bootcamp |
+| 2026 | **AI-Powered Analytics with Power BI** (DAX, Fabric, Copilot), EduHubSpot |
+| 2026 | **Power BI: Data Analytics & Data Preparation**, Coursera |
+| 2026 | **GenAI Bootcamp for Students**, Outskill *(7-day live programme, practical workbooks, final assessment)* |
+| 2026 | **Generative AI Mastermind**, Outskill *(2-day live workshop: AI foundations, workflow automation)* |
 | 2026 | **Google Certified Educator Level 1 & Level 2** |
-| 2001 | **Web Page Development Certificate** — HTML, JavaScript, Web Systems — Softlogix |
-| 2001 | **Brainbench** — Oracle Programmer (E-Cert), Windows Administrator |
-| 1999 | **Oracle Certified Professional (OCP)** — Developer Track, SQL/PL-SQL — **Score: 54/57** |
+| 2001 | **Web Page Development Certificate**, HTML, JavaScript, Web Systems, Softlogix |
+| 2001 | **Brainbench**, Oracle Programmer (E-Cert), Windows Administrator |
+| 1999 | **Oracle Certified Professional (OCP)**, Developer Track, SQL/PL-SQL, **Score: 54/57** |
 
 ---
 
@@ -174,7 +177,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
  ├─ ⏸️  Career Break              │ Family caring responsibilities    │ Nov 2021–Jan 2026
  │
  └─ Retraining & Portfolio    │ MSc + Bootcamp + Power BI + Python + COBOL│ Jan 2026–Now
-        Actively seeking: Data Analyst · Data Engineer . COBOL roles
+        Actively seeking: Data Analyst · Data Engineer · COBOL roles
 ```
 
 ---
@@ -182,28 +185,28 @@ I hold an **Oracle Certified Professional** qualification that I scored
 ## Education
 
 **MSc Computer Science with Data Analytics** *(in progress)*
-City St George's, University of London — *Feb 2026 – Present*
+City St George's, University of London · *Feb 2026 – Present*
 
 **Level 3 Skills Bootcamp in Data Analytics** *(NCFE Level 3 Certificate in Data Analytics)*
-Think Employment — *Jan 2026 – Mar 2026*
+Think Employment · *Jan 2026 – Mar 2026*
 `SQL` · `Python` · `Power BI` · `Excel` · `ETL` · `Statistical Analysis` · `Business Intelligence`
 
 **Diploma in Computer Science** *(1st Position in College)*
-Abacus College of Computer & Management Sciences, Pakistan — *1996–1997*
+Abacus College of Computer & Management Sciences, Pakistan · *1996–1997*
 
 **Bachelor of Arts (BA)**
-University of the Punjab, Pakistan — *1995–1997*
+University of the Punjab, Pakistan · *1995–1997*
 
 ---
 
 ## Sectors I've Worked In
 
-| Sector | Experience |
+| Sector | What I did |
 |--------|-----------|
 | Healthcare | Patient DBs, clinical reporting, sensitive data governance |
 | Retail | Lidl KPIs, stock analytics, sales forecasting |
-| Private Hire / Transport | Founder of Pink Apple Cars — booking & demand analysis, Google Ads spend, UK GDPR, TfL compliance |
-| Financial Services | MIS, leasing systems, senior management reporting |
+| Private Hire / Transport | Founder of Pink Apple Cars: booking & demand analysis, Google Ads spend, UK GDPR, TfL compliance |
+| Financial Services | Management reporting (MI), leasing systems, reports for senior management |
 | Consulting | Long-term client DB & systems work, ETL, dashboards |
 | Education | Teaching programming and database systems |
 
@@ -212,18 +215,18 @@ University of the Punjab, Pakistan — *1995–1997*
 ## Currently Working On:
 
 - MSc modules in Data Analytics at City St George's, University of London
-- Deepening Python for data engineering and automation
+- Python for data work and automation (Pandas, NumPy)
 - Preparing for Microsoft PL-300 Power BI Data Analyst (exam target Nov 2026)
-- Building Power BI portfolio projects — four end-to-end projects in SQL, Python and Power BI so far
-- Modernising ETL workflows with cloud-ready approaches
-- Learning COBOL and remembering from my prior COBOL experience i had at Abacus College
+- Power BI portfolio: four end-to-end projects in SQL, Python and Power BI so far
+- Learning ETL the cloud way, with Azure and Microsoft Fabric fundamentals
+- Picking COBOL back up, which I first studied at Abacus College
 
 ---
 
 ## 📬 Let's Connect
 
 I'm actively looking for **Data Analyst**, **Data Engineer** and **COBOL** roles.
-If you're working on interesting data problems — especially in **healthcare, finance, or retail** — I'd love to talk.
+If you're working on interesting data problems, especially in **healthcare, finance or retail**, I'd love to talk.
 
 📧 **contactbukhtawar.ali@gmail.com** | 📍 **London, UK**
 
@@ -239,7 +242,7 @@ If you're working on interesting data problems — especially in **healthcare, f
   <code>ERA</code> 2020s &nbsp;·&nbsp; 
   <code>PLACE</code> London
   <br/>
-  <i>— the tools change, the <b>passion</b> <code>CONSTANT</code> doesn't.</i>
+  <i>the tools change, the <b>passion</b> <code>CONSTANT</code> doesn't.</i>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BukhtawarAli110.BukhtawarAli110)
