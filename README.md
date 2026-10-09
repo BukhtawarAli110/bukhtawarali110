@@ -53,6 +53,7 @@
 ### Currently Learning
 
 ![MSc](https://img.shields.io/badge/MSc_Data_Analytics-City_St_George's-0C447C?style=flat-square&logo=university&logoColor=white)
+![PL-300](https://img.shields.io/badge/Microsoft_PL--300_Power_BI_Data_Analyst-exam_target_Nov_2026-633806?style=flat-square&logo=powerbi&logoColor=EF9F27)
 ![COBOL Course](https://img.shields.io/badge/COBOL%20Basics,%20Core%20and%20Software%20Devolpment_%C2%B7_Coursera-2026-633806?style=flat-square&logo=coursera&logoColor=EF9F27)
 
 
@@ -129,11 +130,15 @@ I hold an **Oracle Certified Professional** qualification that I scored
 
 | Year | Certification |
 |------|--------------|
-| 2026 | **Azure Fundamentals AZ-900: Microsoft Certified** — Microsoft |
+| In preparation | **Microsoft PL-300 Power BI Data Analyst** — Microsoft *(exam target Nov 2026)* |
 | 2026 | **Azure Data Fundamentals DP-900: Microsoft Certified** — Microsoft |
-| 2026 | **Power BI: Data Analytics & Data Preparation** — Coursera |
-| 2026 | **Google Certified Educator Level 1 & Level 2** |
+| 2026 | **Azure Fundamentals AZ-900: Microsoft Certified** — Microsoft |
 | 2026 | **NCFE Level 3 Certificate in Data Analytics** — Think Employment Bootcamp |
+| 2026 | **AI-Powered Analytics with Power BI** (DAX, Fabric, Copilot) — EduHubSpot |
+| 2026 | **Power BI: Data Analytics & Data Preparation** — Coursera |
+| 2026 | **GenAI Bootcamp for Students** — Outskill *(7-day live programme, practical workbooks, final assessment)* |
+| 2026 | **Generative AI Mastermind** — Outskill *(2-day live workshop: AI foundations, workflow automation)* |
+| 2026 | **Google Certified Educator Level 1 & Level 2** |
 | 2001 | **Web Page Development Certificate** — HTML, JavaScript, Web Systems — Softlogix |
 | 2001 | **Brainbench** — Oracle Programmer (E-Cert), Windows Administrator |
 | 1999 | **Oracle Certified Professional (OCP)** — Developer Track, SQL/PL-SQL — **Score: 54/57** |
@@ -157,15 +162,18 @@ I hold an **Oracle Certified Professional** qualification that I scored
  ├─ Database Developer        │ GAMCA, Islamabad PK               │ 2000–2001
  │      Oracle · PL-SQL · patient data · web-enabled reporting
  │
- ├─ DB & Systems Consultant   │ Albion Highland, London UK        │ 2002–2021
- │      Oracle · MS Access · ETL · dashboards · web platforms
+ ├─ DB & Reporting Consultant │ Albion Highland, London UK        │ 2002–2021
+ │      Retained, part-time · SQL · sales & inventory DB · websites · reporting
  │
- ├─ Store Manager (Data Focus)│ Lidl UK GmbH                      │ 2005–2016
- │      Retail analytics · KPIs · forecasting · compliance
+ ├─ Store Manager             │ Lidl UK, London                   │ 2005–Jan 2016
+ │      Teams of up to 40-45 · POS, inventory & shrinkage data · KPI reports
  │
- ├─ ⏸️  Career Break              │ Health recovery & family caring   │ 2021–2025
+ ├─ Founder & Owner-Manager   │ Pink Apple Cars, London UK        │ Feb 2016–Oct 2021
+ │      Private hire · £300k+ revenue · up to 50 drivers · Google Ads · GDPR · TfL
  │
- └─ Returning & Upskilling    │ MSc + Bootcamp + Power BI + Python + COBOL│ 2026–Now
+ ├─ ⏸️  Career Break              │ Family caring responsibilities    │ Nov 2021–Jan 2026
+ │
+ └─ Retraining & Portfolio    │ MSc + Bootcamp + Power BI + Python + COBOL│ Jan 2026–Now
         Actively seeking: Data Analyst · Data Engineer . COBOL roles
 ```
 
@@ -176,8 +184,8 @@ I hold an **Oracle Certified Professional** qualification that I scored
 **MSc Computer Science with Data Analytics** *(in progress)*
 City St George's, University of London — *Feb 2026 – Present*
 
-**NCFE Level 3 Certificate in Data Analytics**
-Think Employment Skills Bootcamp — *Jan–Mar 2026*
+**Level 3 Skills Bootcamp in Data Analytics** *(NCFE Level 3 Certificate in Data Analytics)*
+Think Employment — *Jan 2026 – Mar 2026*
 `SQL` · `Python` · `Power BI` · `Excel` · `ETL` · `Statistical Analysis` · `Business Intelligence`
 
 **Diploma in Computer Science** *(1st Position in College)*
@@ -194,6 +202,7 @@ University of the Punjab, Pakistan — *1995–1997*
 |--------|-----------|
 | Healthcare | Patient DBs, clinical reporting, sensitive data governance |
 | Retail | Lidl KPIs, stock analytics, sales forecasting |
+| Private Hire / Transport | Founder of Pink Apple Cars — booking & demand analysis, Google Ads spend, UK GDPR, TfL compliance |
 | Financial Services | MIS, leasing systems, senior management reporting |
 | Consulting | Long-term client DB & systems work, ETL, dashboards |
 | Education | Teaching programming and database systems |
@@ -204,7 +213,8 @@ University of the Punjab, Pakistan — *1995–1997*
 
 - MSc modules in Data Analytics at City St George's, University of London
 - Deepening Python for data engineering and automation
-- Building Power BI portfolio projects
+- Preparing for Microsoft PL-300 Power BI Data Analyst (exam target Nov 2026)
+- Building Power BI portfolio projects — four end-to-end projects in SQL, Python and Power BI so far
 - Modernising ETL workflows with cloud-ready approaches
 - Learning COBOL and remembering from my prior COBOL experience i had at Abacus College
 
