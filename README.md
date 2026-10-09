@@ -168,7 +168,7 @@ I hold an **Oracle Certified Professional** qualification that I scored
  ├─ Store Manager             │ Lidl UK, London                   │ 2005–Jan 2016
  │      Teams of up to 40-45 · POS, inventory & shrinkage data · KPI reports
  │
- ├─ Founder & Owner-Manager   │ Pink Apple Cars, London UK        │ Feb 2016–Oct 2021
+ ├─ Founder, Co-Owner & Manager│ Pink Apple Cars, London UK        │ Feb 2016–Oct 2021
  │      Private hire · £300k+ revenue · up to 50 drivers · Google Ads · GDPR · TfL
  │
  ├─ ⏸️  Career Break              │ Family caring responsibilities    │ Nov 2021–Jan 2026
