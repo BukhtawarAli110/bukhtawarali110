@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+Power+BI)](https://git.io/typing-svg)
 
-**London, UK &nbsp;·&nbsp; 18+ years in data &nbsp;·&nbsp; Oracle OCP 54/57 &nbsp;·&nbsp; Microsoft Certified Azure Data Fundamentals**
+**London, UK &nbsp;·&nbsp; SQL since the 90s, Power BI and Python today &nbsp;·&nbsp; Microsoft Certified (DP-900, AZ-900) &nbsp;·&nbsp; PL-300 in progress**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bukhtawar-ali-4441291a9)
 [![Email](https://img.shields.io/badge/📧_Email_Me-0078D4?style=for-the-badge)](mailto:contactbukhtawar.ali@gmail.com)
