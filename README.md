@@ -73,7 +73,7 @@
 ---
 ## 👋 Hey, I'm Bukhtawar Ali
 
-I've been building databases since 1997, and one thing has kept me at it: **making data make sense.**
+I've been building databases since the 90s, and one thing has kept me at it: **making data make sense.**
 
 I started out as an Oracle and SQL developer in Pakistan, working on patient, leasing and
 inventory systems. In the UK I kept a company's sales and inventory database running for
@@ -154,18 +154,18 @@ back when you had to actually know your SQL.
 ## Career Timeline
 
 ```
-1997 ──────────────────────────────────────────────────────────── Present
+1990s ─────────────────────────────────────────────────────────── Present
  │
- ├─ Database Developer        │ Urgent Medical Diagnostic Centre  │ 1997–1999
+ ├─ Database Developer        │ Urgent Medical Diagnostic Centre  │ Early career
  │      FoxPro · patient DBs · clinical reporting
  │
- ├─ Computer Instructor (PT)  │ ACCMS / Abacus College, PK        │ 1997–2000
+ ├─ Computer Instructor (PT)  │ ACCMS / Abacus College, PK        │ Early career
  │      Programming · DB systems · diploma students
  │
- ├─ DB Programmer / MIS Officer│ Askari Leasing Ltd., PK           │ 1999–2000
+ ├─ DB Programmer / MIS Officer│ Askari Leasing Ltd., PK           │ Early career
  │      SQL · FoxPro · financial MIS · senior mgmt reporting
  │
- ├─ Database Developer        │ GAMCA, Islamabad PK               │ 2000–2001
+ ├─ Database Developer        │ GAMCA, Islamabad PK               │ Early career
  │      Oracle · PL-SQL · patient data · web-enabled reporting
  │
  ├─ Store Manager             │ Budgens UK, London                │ 2001–2005
@@ -198,10 +198,10 @@ Think Employment · *Jan 2026 – Mar 2026*
 `SQL` · `Python` · `Power BI` · `Excel` · `ETL` · `Statistical Analysis` · `Business Intelligence`
 
 **Diploma in Computer Science** *(1st Position in College)*
-Abacus College of Computer & Management Sciences, Pakistan · *1996–1997*
+Abacus College of Computer & Management Sciences, Pakistan
 
 **Bachelor of Arts (BA)**
-University of the Punjab, Pakistan · *1995–1997*
+University of the Punjab, Pakistan
 
 ---
 
