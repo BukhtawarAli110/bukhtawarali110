@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Data+Engineer;SQL+%7C+Python+%7C+Power+BI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Vibe+Coder;SQL+%7C+Power+BI+%7C+Python;Azure+%7C+Fabric+%7C+GenAI)](https://git.io/typing-svg)
 
 **London, UK &nbsp;·&nbsp; SQL since the 90s, Power BI and Python today &nbsp;·&nbsp; Microsoft Certified (DP-900, AZ-900) &nbsp;·&nbsp; PL-300 in progress**
 
@@ -32,6 +32,9 @@
 ### Modern Stack
 
 ![Python](https://img.shields.io/badge/Python-0C447C?style=for-the-badge&logo=python&logoColor=85B7EB)
+![Vibe Coder](https://img.shields.io/badge/Vibe_Coder_·_AI--Assisted_Coding-3C3489?style=for-the-badge&logoColor=AFA9EC)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-085041?style=for-the-badge&logoColor=5DCAA5)
+![Generative AI](https://img.shields.io/badge/Generative_AI_·_Copilot-3C3489?style=for-the-badge&logoColor=AFA9EC)
 ![COBOL](https://img.shields.io/badge/COBOL-0C447C?style=for-the-badge&logo=cobol&logoColor=85B7EB)
 ![Power BI](https://img.shields.io/badge/Power_BI-633806?style=for-the-badge&logo=powerbi&logoColor=EF9F27)
 ![SQL](https://img.shields.io/badge/SQL_·_PL/SQL-0C447C?style=for-the-badge&logo=postgresql&logoColor=85B7EB)
@@ -164,6 +167,9 @@ back when you had to actually know your SQL.
  │
  ├─ Database Developer        │ GAMCA, Islamabad PK               │ 2000–2001
  │      Oracle · PL-SQL · patient data · web-enabled reporting
+ │
+ ├─ Store Manager             │ Budgens UK, London                │ 2001–2005
+ │      Team leadership · stock control · POS reporting
  │
  ├─ DB & Reporting Consultant │ Albion Highland, London UK        │ 2002–2021
  │      Retained, part-time · SQL · sales & inventory DB · websites · reporting
