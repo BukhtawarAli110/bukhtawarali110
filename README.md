@@ -71,6 +71,13 @@
 > `Oracle / MySQL` → `Azure / SQL Server` → `Python` → `Power BI` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
 
 ---
+## 📊 Featured Projects
+
+| Project | Tools | What it shows |
+|---|---|---|
+| [**Blinkit Grocery Sales Analysis**](https://github.com/BukhtawarAli110/Blinkit-Sales-Analysis-PowerBI) | Power BI · DAX · Power Query | Interactive dashboard over 1.20M in sales and 8,523 items: KPI cards, field-parameter metric switcher, outlet and product breakdowns |
+
+---
 ## 👋 Hey, I'm Bukhtawar Ali
 
 I've been building databases since the 90s, and one thing has kept me at it: **making data make sense.**
