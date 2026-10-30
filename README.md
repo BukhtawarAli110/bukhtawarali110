@@ -32,10 +32,9 @@
 ### Modern Stack
 
 ![Python](https://img.shields.io/badge/Python-0C447C?style=for-the-badge&logo=python&logoColor=85B7EB)
-![Vibe Coder](https://img.shields.io/badge/Vibe_Coder_·_AI--Assisted_Coding-3C3489?style=for-the-badge&logoColor=AFA9EC)
+![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development_·_Claude_Code-3C3489?style=for-the-badge&logoColor=AFA9EC)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-085041?style=for-the-badge&logoColor=5DCAA5)
-![Generative AI](https://img.shields.io/badge/Generative_AI_·_Copilot-3C3489?style=for-the-badge&logoColor=AFA9EC)
-![COBOL](https://img.shields.io/badge/COBOL-0C447C?style=for-the-badge&logo=cobol&logoColor=85B7EB)
+![Generative AI](https://img.shields.io/badge/GenAI_·_Copilot_·_Prompt_Design-3C3489?style=for-the-badge&logoColor=AFA9EC)
 ![Power BI](https://img.shields.io/badge/Power_BI-633806?style=for-the-badge&logo=powerbi&logoColor=EF9F27)
 ![SQL](https://img.shields.io/badge/SQL_·_PL/SQL-0C447C?style=for-the-badge&logo=postgresql&logoColor=85B7EB)
 ![ETL](https://img.shields.io/badge/ETL_Pipelines-085041?style=for-the-badge&logoColor=5DCAA5)
@@ -57,7 +56,6 @@
 
 ![MSc](https://img.shields.io/badge/MSc_Data_Analytics-City_St_George's-0C447C?style=flat-square&logo=university&logoColor=white)
 ![PL-300](https://img.shields.io/badge/Microsoft_PL--300_Power_BI_Data_Analyst-exam_target_Nov_2026-633806?style=flat-square&logo=powerbi&logoColor=EF9F27)
-![COBOL Course](https://img.shields.io/badge/COBOL%20Basics,%20Core%20and%20Software%20Development_%C2%B7_Coursera-2026-633806?style=flat-square&logo=coursera&logoColor=EF9F27)
 
 
 ---
@@ -96,17 +94,14 @@ What I work with now:
 In 2026 I went back to the books. I'm studying for an
 **MSc in Computer Science with Data Analytics** at City St George's, I've finished the
 **NCFE Level 3 Data Analytics Bootcamp**, and I passed **Azure Fundamentals (AZ-900)** and
-**Azure Data Fundamentals (DP-900)**. **PL-300** is next. I'm also working through several
-**COBOL** courses and hold **Google Certified Educator L1 & L2**.
+**Azure Data Fundamentals (DP-900)**. **PL-300** is next. I also hold **Google Certified Educator L1 & L2**.
 
-I'm a vibe coder too: I work with AI tools to get from an idea to working code quickly.
+I'm a vibe coder too. I use AI coding assistants to get from an idea to working code fast, then check and test what they produce.
 
 I passed **Oracle Certified Professional** in 1999 with **54 out of 57**,
 back when you had to actually know your SQL.
 
-> *The tools on my CV have changed a lot over the years.*  
-> *The hunger to get the data right hasn't.* <br>
-> *Data is only as powerful as the story it tells. I build both.*
+> *The tools have changed a lot over the years. The need to get the data right hasn't.*
 
 ---
 
@@ -117,7 +112,6 @@ back when you had to actually know your SQL.
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![COBOL](https://img.shields.io/badge/COBOL-0C447C?style=flat-square&logo=cobol&logoColor=85B7EB)
 
 
 ### Analytics & BI
@@ -194,8 +188,8 @@ back when you had to actually know your SQL.
  │
  ├─ ⏸️  Career Break              │ Family caring responsibilities    │ Nov 2021–Jan 2026
  │
- └─ Retraining & Portfolio    │ MSc + Bootcamp + Power BI + Python + COBOL│ Jan 2026–Now
-        Actively seeking: Data Analyst · Data Engineer · COBOL roles
+ └─ Retraining & Portfolio    │ MSc + Bootcamp + Power BI + Python│ Jan 2026–Now
+        Actively seeking: Data Analyst · Data Engineer roles
 ```
 
 ---
@@ -230,20 +224,19 @@ University of the Punjab, Pakistan
 
 ---
 
-## Currently Working On:
+## Currently Working On
 
 - MSc modules in Data Analytics at City St George's, University of London
 - Python for data work and automation (Pandas, NumPy)
 - Preparing for Microsoft PL-300 Power BI Data Analyst (exam target Nov 2026)
 - Power BI portfolio: four end-to-end projects in SQL, Python and Power BI so far
-- Learning ETL the cloud way, with Azure and Microsoft Fabric fundamentals
-- Picking COBOL back up, which I first studied at Abacus College
+- Learning cloud data engineering with Azure and Microsoft Fabric
 
 ---
 
 ## 📬 Let's Connect
 
-I'm actively looking for **Data Analyst**, **Data Engineer** and **COBOL** roles.
+I'm looking for **Data Analyst** and **Data Engineer** roles.
 If you're working on interesting data problems, especially in **healthcare, finance or retail**, I'd love to talk.
 
 📧 **contactbukhtawar.ali@gmail.com** | 📍 **London, UK**
@@ -260,7 +253,7 @@ If you're working on interesting data problems, especially in **healthcare, fina
   <code>ERA</code> 2020s &nbsp;·&nbsp; 
   <code>PLACE</code> London
   <br/>
-  <i>the tools change, the <b>passion</b> <code>CONSTANT</code> doesn't.</i>
+  <i>the tools change, the <b>passion</b> doesn't.</i>
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BukhtawarAli110.BukhtawarAli110)
