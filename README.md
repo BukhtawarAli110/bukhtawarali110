@@ -56,7 +56,7 @@
 ### Currently Learning
 
 ![MSc](https://img.shields.io/badge/MSc_Data_Analytics-City_St_George's-0C447C?style=flat-square&logo=university&logoColor=white)
-![PL-300](https://img.shields.io/badge/Microsoft_PL--300_Power_BI_Data_Analyst-exam_target_Nov_2026-633806?style=flat-square&logo=powerbi&logoColor=EF9F27)
+![PL-300](https://img.shields.io/badge/Microsoft_PL--300_Power_BI_Data_Analyst-exam_target_Dec_2026-633806?style=flat-square&logo=powerbi&logoColor=EF9F27)
 
 
 ---
@@ -151,7 +151,7 @@ back when you had to actually know your SQL.
 
 | Year | Certification |
 |------|--------------|
-| In preparation | **Microsoft PL-300 Power BI Data Analyst**, Microsoft *(exam target Nov 2026)* |
+| In preparation | **Microsoft PL-300 Power BI Data Analyst**, Microsoft *(exam target Dec 2026)* |
 | 2026 | **Azure Data Fundamentals DP-900: Microsoft Certified**, Microsoft |
 | 2026 | **Azure Fundamentals AZ-900: Microsoft Certified**, Microsoft |
 | 2026 | **NCFE Level 3 Certificate in Data Analytics**, Think Employment Bootcamp |
@@ -242,7 +242,7 @@ University of the Punjab, Pakistan
 
 - MSc modules in Data Analytics at City St George's, University of London
 - Python for data work and automation (Pandas, NumPy)
-- Preparing for Microsoft PL-300 Power BI Data Analyst (exam target Nov 2026)
+- Preparing for Microsoft PL-300 Power BI Data Analyst (exam target Dec 2026)
 - Power BI portfolio: six end-to-end projects, plus Python tools built with AI assistance
 - Learning cloud data engineering with Azure and Microsoft Fabric
 
