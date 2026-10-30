@@ -25,6 +25,7 @@
 <img src="https://iconic-api.onrender.com/dark/windows" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/linux" width="64px" />
 <img src="https://iconic-api.onrender.com/dark/claude" width="64px" />
+<img src="https://iconic-api.onrender.com/dark/gemini" width="64px" />
 
 </p>
 
