@@ -87,7 +87,7 @@
 |---|---|---|
 | [**JAppTracker**](https://github.com/BukhtawarAli110/JAppTracker) | Python · Azure MySQL · SMTP | A web app for managing my job applications (create, read, update, delete) that emails day 3, 5 and 7 follow-up reminders |
 | [**Prompt Generator**](https://github.com/BukhtawarAli110/Gemini-Prompt-Generator-Skill) (Gemini skill) | Prompt engineering · Context engineering · Markdown | A short request goes in, a full expert prompt comes out. It uses a Six-Point Formula (role, task, context, process, constraints, output format) and a question gate that asks for missing facts instead of guessing. `/prompt` returns a reusable master prompt |
-| [**Job Hunt Dashboard**](https://github.com/BukhtawarAli110/Job-Hunt-Dashboard) | Power BI · Google Sheets | Live report on every application I make: totals, month and week change, status and platform mix |
+| **Job Hunt Dashboard** (private repo) | Power BI · Google Sheets | Live report on every application I make: totals, month and week change, status and platform mix |
 
 ---
 ## 👋 Hey, I'm Bukhtawar Ali
