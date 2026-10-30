@@ -63,8 +63,8 @@
 | | |
 |---|---|
 | **Sectors** | Healthcare · Retail · Financial Services |
-| **Specialisms** | BI Reporting · KPI Dashboards · Data Modelling · ETL |
-| **Seeking** | Data Analyst · Data Engineer roles |
+| **Specialisms** | BI Reporting · KPI Dashboards · Data Modelling · ETL · AI-assisted analytics (Copilot in Power BI) |
+| **Seeking** | Data Analyst · Data Engineer · AI-assisted analytics roles |
 
 > `Oracle / MySQL` → `Azure / SQL Server` → `Python` → `Power BI` &nbsp;·&nbsp; *the tools evolve. the data obsession doesn't.*
 
@@ -73,7 +73,19 @@
 
 | Project | Tools | What it shows |
 |---|---|---|
-| [**Blinkit Grocery Sales Analysis**](https://github.com/BukhtawarAli110/Blinkit-Sales-Analysis-PowerBI) | Power BI · DAX · Power Query | Interactive dashboard over 1.20M in sales and 8,523 items: KPI cards, field-parameter metric switcher, outlet and product breakdowns |
+| [**Global Superstore Analysis**](https://github.com/BukhtawarAli110/Global-Superstore-Analysis-PowerBI) | Power BI · DAX · Star schema | Three-page executive report on 25,035 orders. Shipping cost (10.7% of sales) cuts the profit margin from 11.6% to 0.91%, and 44% of customer accounts lose money after shipping |
+| [**Pharma Sales & Targets**](https://github.com/BukhtawarAli110/Med-Sales-Analysis-PowerBI) | Power BI · DAX · Time intelligence | Four-page report on 2.72bn revenue across 54 distributors, with YTD, MTD and FTD target measures and a dynamic Pareto chart. Five brands bring 67% of revenue |
+| [**HR Attrition Analysis**](https://github.com/BukhtawarAli110/HR-Attrition-Analysis-PowerBI) | Power BI · DAX · Power Query | 1,470 employees: attrition is 16.1%, but overtime workers leave at 30.5% against 10.4% for everyone else |
+| [**Netflix Content Analysis**](https://github.com/BukhtawarAli110/Netflix-Content-Analysis-PowerBI) | Power BI · DAX · Bridge tables | 5,806 titles and 77,213 credits modelled with bridge tables. 45% of titles have no age certification |
+| [**Blinkit Grocery Sales Analysis**](https://github.com/BukhtawarAli110/Blinkit-Sales-Analysis-PowerBI) | Power BI · DAX · Power Query | 8,523 items cleaned in Power Query, with a field-parameter metric switcher and outlet and product breakdowns |
+| [**RLS Scenario Dashboard**](https://github.com/BukhtawarAli110/RLS-Scenario-Dashboard-PowerBI) | Power BI · DAX · Row-level security | Role-based views with margin hidden from restricted users, plus a what-if discount slider |
+
+### Built with AI assistance
+
+| Project | Tools | What it does |
+|---|---|---|
+| [**JAppTracker**](https://github.com/BukhtawarAli110/JAppTracker) | Python · Azure MySQL · SMTP | A web app for managing my job applications (create, read, update, delete) that emails day 3, 5 and 7 follow-up reminders |
+| [**Job Hunt Dashboard**](https://github.com/BukhtawarAli110/Job-Hunt-Dashboard) | Power BI · Google Sheets | Live report on every application I make: totals, month and week change, status and platform mix |
 
 ---
 ## 👋 Hey, I'm Bukhtawar Ali
@@ -229,7 +241,7 @@ University of the Punjab, Pakistan
 - MSc modules in Data Analytics at City St George's, University of London
 - Python for data work and automation (Pandas, NumPy)
 - Preparing for Microsoft PL-300 Power BI Data Analyst (exam target Nov 2026)
-- Power BI portfolio: four end-to-end projects in SQL, Python and Power BI so far
+- Power BI portfolio: six end-to-end projects, plus Python tools built with AI assistance
 - Learning cloud data engineering with Azure and Microsoft Fabric
 
 ---
