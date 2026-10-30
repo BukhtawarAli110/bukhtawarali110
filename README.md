@@ -85,6 +85,7 @@
 | Project | Tools | What it does |
 |---|---|---|
 | [**JAppTracker**](https://github.com/BukhtawarAli110/JAppTracker) | Python · Azure MySQL · SMTP | A web app for managing my job applications (create, read, update, delete) that emails day 3, 5 and 7 follow-up reminders |
+| **Prompt Generator** (Claude and Gemini) | Prompt engineering · Chain-of-thought · Markdown | I give it a four-word brief and it builds a full system prompt for that task, using a six-step chain-of-thought structure. Each prompt is saved as a reusable template |
 | [**Job Hunt Dashboard**](https://github.com/BukhtawarAli110/Job-Hunt-Dashboard) | Power BI · Google Sheets | Live report on every application I make: totals, month and week change, status and platform mix |
 
 ---
