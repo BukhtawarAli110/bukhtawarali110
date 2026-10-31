@@ -92,7 +92,7 @@
 ---
 ## 👋 About me
 
-Hi, I'm Bukhtawar, a data analyst in London who builds SQL databases, Power BI dashboards and automated reports that busy managers actually use, and who can also build with AI. In a public retail dataset of 25,035 orders, my Power BI report showed shipping costs taking 10.7% of sales and cutting the profit margin from 11.6% to 0.91%. I've been building databases since the 90s, and what keeps me at it is **making data make sense.**
+Hi, I'm Bukhtawar Ali (*buk-TAH-war AH-lee*), a data analyst in London who builds SQL databases, Power BI dashboards and automated reports that busy managers actually use, and who can also build with AI. In a public retail dataset of 25,035 orders, my Power BI report showed shipping costs taking 10.7% of sales and cutting the profit margin from 11.6% to 0.91%. I've been building databases since the 90s, and what keeps me at it is **making data make sense.**
 
 I started out as an Oracle and SQL developer in Pakistan, working on patient, leasing and
 inventory systems. In the UK I kept a company's sales and inventory database running for
