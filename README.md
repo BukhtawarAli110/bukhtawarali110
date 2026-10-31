@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Also+Builds+with+AI;SQL+%7C+Power+BI+%7C+Python;Azure+%7C+Fabric+%7C+GenAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Also+Builds+with+AI;SQL+%7C+Power+BI+%7C+Python;Azure+%7C+Fabric+%7C+GenAI)](https://git.io/typing-svg)
 
 **London, UK &nbsp;·&nbsp; SQL since the 90s, Power BI and Python today &nbsp;·&nbsp; Microsoft Certified (DP-900, AZ-900) &nbsp;·&nbsp; PL-300 in progress**
 
