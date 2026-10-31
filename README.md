@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Vibe+Coder;SQL+%7C+Power+BI+%7C+Python;Azure+%7C+Fabric+%7C+GenAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=%3C+Bukhtawar+Ali+%2F%3E;Data+Analyst+%7C+Also+Builds+with+AI;SQL+%7C+Power+BI+%7C+Python;Azure+%7C+Fabric+%7C+GenAI)](https://git.io/typing-svg)
 
 **London, UK &nbsp;·&nbsp; SQL since the 90s, Power BI and Python today &nbsp;·&nbsp; Microsoft Certified (DP-900, AZ-900) &nbsp;·&nbsp; PL-300 in progress**
 
@@ -92,7 +92,7 @@
 ---
 ## 👋 About me
 
-Hi, I'm Bukhtawar, a data analyst in London who builds SQL databases, Power BI dashboards and automated reports that busy managers actually use. In a public retail dataset of 25,035 orders, my Power BI report showed shipping costs taking 10.7% of sales and cutting the profit margin from 11.6% to 0.91%. I've been building databases since the 90s, and what keeps me at it is **making data make sense.**
+Hi, I'm Bukhtawar, a data analyst in London who builds SQL databases, Power BI dashboards and automated reports that busy managers actually use, and who can also build with AI. In a public retail dataset of 25,035 orders, my Power BI report showed shipping costs taking 10.7% of sales and cutting the profit margin from 11.6% to 0.91%. I've been building databases since the 90s, and what keeps me at it is **making data make sense.**
 
 I started out as an Oracle and SQL developer in Pakistan, working on patient, leasing and
 inventory systems. In the UK I kept a company's sales and inventory database running for
@@ -110,7 +110,7 @@ In 2026 I went back to the books. I'm studying for an
 **NCFE Level 3 Data Analytics Bootcamp**, and I passed **Azure Fundamentals (AZ-900)** and
 **Azure Data Fundamentals (DP-900)**. **PL-300** is next. I also hold **Google Certified Educator L1 & L2**.
 
-I'm a vibe coder too. I use AI coding assistants to get from an idea to working code fast, then check and test what they produce.
+I can also build with AI. On top of the SQL and DAX I write myself, I direct AI coding assistants to get from an idea to working code fast, then check and test what they produce.
 
 I passed **Oracle Certified Professional** in 1999 with **54 out of 57**,
 back when you had to actually know your SQL.
